@@ -38,7 +38,7 @@
     display: none;
 }
 nav {
-    position:absolute;
+    position:relative;
     z-index:4;
     width: 100%;
     position: fixed;
