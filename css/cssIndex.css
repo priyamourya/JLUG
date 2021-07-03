@@ -1,6 +1,9 @@
 * {
     font-family: "Poppins", sans-serif;
-  
+    background-image: url("backgroundImg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 .section {
     height: 730px;
@@ -175,10 +178,7 @@ nav.black > ul > li > a {
     background-size: cover; */
 }
 .outmostDiv {
-      background-image: url("backgroundImg.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
+
 }
 
 /* Aboutus */
