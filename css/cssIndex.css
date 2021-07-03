@@ -200,7 +200,7 @@ nav.black > ul > li > a {
 }
 
 .container {
-    height: 87vh;
+    height: 70vh;
     /* background-color: rgb(224, 248, 255); */
 }
 .contact-contain {
@@ -331,10 +331,10 @@ form input {
         font-size: 24px;
     }
     .container {
-        height: 150vh;
+        height: 90vh;
     }
     .tname {
-        min-width: 85%;
+        min-width: 80%;
     }
 }
 
@@ -343,6 +343,6 @@ form input {
         border-bottom: 0px;
     }
     .container {
-        height: 170vh;
+        height: 90vh;
     }
 }
