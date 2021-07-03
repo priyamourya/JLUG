@@ -38,8 +38,8 @@
     display: none;
 }
 nav {
-    position:relative;
-    z-index:4;
+    position:absolute;
+    z-index:5;
     width: 100%;
     position: fixed;
     top: 0;
