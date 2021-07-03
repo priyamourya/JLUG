@@ -108,7 +108,7 @@ nav.black > ul > li > a {
         left: 0;
         padding: 5px 20px;
         box-sizing: border-box;
-        z-index: 1;
+        z-index: 4;
     }
     .responsive-bar .logo img {
         float: left;
@@ -173,7 +173,7 @@ nav.black > ul > li > a {
 }
 /* sections */
 #Home {
-    height: 100vh;
+/*     height: 100vh; */
     /* background-image: url("/images/ImageHome.jpg");
     background-size: cover; */
 }
