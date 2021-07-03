@@ -177,10 +177,10 @@ nav.black > ul > li > a {
     background-size: cover; */
 }
 .outmostDiv {
-/*     background-image: url("backgroundImg.jpg");
+    background-image: url("backgroundImg.jpg");
     background-size: cover;
     background-repeat: no-repeat;
-    background-attachment: fixed; */
+    background-attachment: fixed;
 }
 
 /* Aboutus */
